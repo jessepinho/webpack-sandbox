@@ -1,8 +1,9 @@
 {
-  "scripts":{
+  "scripts": {
     "build": "webpack"
   },
   "dependencies": {
+    "stats-webpack-plugin": "^0.6.1",
     "webpack": "^3.0.0"
   },
   "devDependencies": {
