@@ -1,4 +1,4 @@
-[`webpack.config.ts`](./webpack.config.ts#L14) has `profile: true`, but no profiling data is output when building with Webpack:
+[`webpack.config.ts`](https://github.com/jessepinho/webpack-sandbox/blob/d37e509213c54729c91dc3817b6e13282ff95a2d/webpack.config.ts#L14) has `profile: true`, but no profiling data is output when building with Webpack:
 
 ```bash
 $ webpack
