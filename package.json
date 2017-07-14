@@ -4,7 +4,7 @@
   },
   "dependencies": {
     "stats-webpack-plugin": "^0.6.1",
-    "webpack": "^3.0.0"
+    "webpack": "^3.2.0"
   },
   "devDependencies": {
     "@types/node": "^8.0.7",
